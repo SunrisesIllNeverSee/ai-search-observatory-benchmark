@@ -1,0 +1,1016 @@
+{
+  "_instructions": "Populate per site from Semrush/other AI visibility source. Null means unknown, not zero. Data below gathered via web search on 2026-08-27 baseline.",
+  "_source": "web_search baseline gathered 2026-08-27",
+  "_methodology": "Referring domains and mentions counted from web search results across Google, Brave, and targeted site searches. These are lower bounds, not exhaustive counts.",
+  "sites": {
+    "mos2es-com": {
+      "share_of_voice": 0,
+      "source_visibility": 0,
+      "referral_traffic": null,
+      "ai_visibility": null,
+      "ai_mentions": 8,
+      "ai_citations": 5,
+      "tracked_prompts": 5,
+      "top_cited_pages": [
+        "https://mos2es.com/",
+        "https://mos2es.com/field-sheet",
+        "https://mos2es.com/architecture",
+        "https://mos2es.com/papers",
+        "https://mos2es.com/press"
+      ],
+      "linked_mentions": 139,
+      "unlinked_mentions": 43,
+      "referring_domains": 49,
+      "forum_contributions": 1,
+      "repurposed_assets": 3,
+      "_semrush_referring_domains": [
+        {
+          "domain": "ai-hunt.tech",
+          "backlinks": "60",
+          "authority_score": "11"
+        },
+        {
+          "domain": "signalaf.com",
+          "backlinks": "8",
+          "authority_score": "2"
+        },
+        {
+          "domain": "dolphinvoice.ai",
+          "backlinks": "6",
+          "authority_score": "15"
+        },
+        {
+          "domain": "github.com",
+          "backlinks": "4",
+          "authority_score": "100"
+        },
+        {
+          "domain": "unyly.org",
+          "backlinks": "4",
+          "authority_score": "2"
+        },
+        {
+          "domain": "hubp.de",
+          "backlinks": "3",
+          "authority_score": "4"
+        },
+        {
+          "domain": "joatie.ca",
+          "backlinks": "3",
+          "authority_score": "0"
+        },
+        {
+          "domain": "8coint.com",
+          "backlinks": "2",
+          "authority_score": "4"
+        },
+        {
+          "domain": "byteshort.xyz",
+          "backlinks": "2",
+          "authority_score": "5"
+        },
+        {
+          "domain": "cc.cd",
+          "backlinks": "2",
+          "authority_score": "14"
+        },
+        {
+          "domain": "ccwu.cc",
+          "backlinks": "2",
+          "authority_score": "4"
+        },
+        {
+          "domain": "claude-updates.com",
+          "backlinks": "2",
+          "authority_score": "6"
+        },
+        {
+          "domain": "directorylinkservice.com",
+          "backlinks": "2",
+          "authority_score": "2"
+        },
+        {
+          "domain": "lawyerinjeddah.com",
+          "backlinks": "2",
+          "authority_score": "2"
+        },
+        {
+          "domain": "producthunt.com",
+          "backlinks": "2",
+          "authority_score": "54"
+        },
+        {
+          "domain": "ready.pro",
+          "backlinks": "2",
+          "authority_score": "4"
+        },
+        {
+          "domain": "urls-shortener.eu",
+          "backlinks": "2",
+          "authority_score": "5"
+        },
+        {
+          "domain": "agentage.io",
+          "backlinks": "1",
+          "authority_score": "5"
+        },
+        {
+          "domain": "allmcps.com",
+          "backlinks": "1",
+          "authority_score": "2"
+        },
+        {
+          "domain": "atomizelink.icu",
+          "backlinks": "1",
+          "authority_score": "5"
+        }
+      ],
+      "_semrush_backlinks_total": 139,
+      "_semrush_authority_score": 2,
+      "_semrush_follow_links": 97,
+      "_semrush_nofollow_links": 43,
+      "_semrush_referring_ips": 55,
+      "_semrush_organic_keywords": [],
+      "_semrush_backlink_competitors": [],
+      "_traffic_sources": {}
+    },
+    "mos2es-org": {
+      "share_of_voice": 0,
+      "source_visibility": 0,
+      "referral_traffic": 11733,
+      "ai_visibility": null,
+      "ai_mentions": 0,
+      "ai_citations": 0,
+      "tracked_prompts": 1,
+      "top_cited_pages": [],
+      "linked_mentions": 39,
+      "unlinked_mentions": 27,
+      "referring_domains": 29,
+      "forum_contributions": 0,
+      "repurposed_assets": 0,
+      "_semrush_referring_domains": [
+        {
+          "domain": "analyticshaven.top",
+          "backlinks": "2",
+          "authority_score": "6"
+        },
+        {
+          "domain": "blogsphere.top",
+          "backlinks": "2",
+          "authority_score": "5"
+        },
+        {
+          "domain": "byteshort.xyz",
+          "backlinks": "2",
+          "authority_score": "5"
+        },
+        {
+          "domain": "creativeposts.top",
+          "backlinks": "2",
+          "authority_score": "6"
+        },
+        {
+          "domain": "dailymusings.top",
+          "backlinks": "2",
+          "authority_score": "6"
+        },
+        {
+          "domain": "directorylinkservice.com",
+          "backlinks": "2",
+          "authority_score": "2"
+        },
+        {
+          "domain": "lawyerinjeddah.com",
+          "backlinks": "2",
+          "authority_score": "2"
+        },
+        {
+          "domain": "optimizeflow.top",
+          "backlinks": "2",
+          "authority_score": "5"
+        },
+        {
+          "domain": "quero.party",
+          "backlinks": "2",
+          "authority_score": "6"
+        },
+        {
+          "domain": "ready.pro",
+          "backlinks": "2",
+          "authority_score": "4"
+        },
+        {
+          "domain": "atomizelink.icu",
+          "backlinks": "1",
+          "authority_score": "5"
+        },
+        {
+          "domain": "backlinks-checker.com",
+          "backlinks": "1",
+          "authority_score": "6"
+        },
+        {
+          "domain": "betulcrime.com",
+          "backlinks": "1",
+          "authority_score": "4"
+        },
+        {
+          "domain": "buzzshrink.website",
+          "backlinks": "1",
+          "authority_score": "6"
+        },
+        {
+          "domain": "bye.fyi",
+          "backlinks": "1",
+          "authority_score": "24"
+        },
+        {
+          "domain": "clifflisting.com",
+          "backlinks": "1",
+          "authority_score": "2"
+        },
+        {
+          "domain": "domaindexer.com",
+          "backlinks": "1",
+          "authority_score": "6"
+        },
+        {
+          "domain": "domraider.eu.com",
+          "backlinks": "1",
+          "authority_score": "0"
+        },
+        {
+          "domain": "domraider.gb.net",
+          "backlinks": "1",
+          "authority_score": "0"
+        },
+        {
+          "domain": "domraider.it.com",
+          "backlinks": "1",
+          "authority_score": "0"
+        }
+      ],
+      "_semrush_backlinks_total": 39,
+      "_semrush_authority_score": 2,
+      "_semrush_follow_links": 11,
+      "_semrush_nofollow_links": 27,
+      "_semrush_referring_ips": 15,
+      "_semrush_organic_keywords": [],
+      "_semrush_backlink_competitors": [],
+      "_traffic_sources": {}
+    },
+    "mos2es-io": {
+      "share_of_voice": 0,
+      "source_visibility": 0,
+      "referral_traffic": null,
+      "ai_visibility": null,
+      "ai_mentions": 3,
+      "ai_citations": 2,
+      "tracked_prompts": 2,
+      "top_cited_pages": [
+        "https://www.mos2es.io/"
+      ],
+      "linked_mentions": 124,
+      "unlinked_mentions": 36,
+      "referring_domains": 43,
+      "forum_contributions": 0,
+      "repurposed_assets": 1,
+      "_semrush_referring_domains": [
+        {
+          "domain": "facts.dev",
+          "backlinks": "19",
+          "authority_score": "13"
+        },
+        {
+          "domain": "jarmonik.org",
+          "backlinks": "13",
+          "authority_score": "2"
+        },
+        {
+          "domain": "ainews247.org",
+          "backlinks": "9",
+          "authority_score": "2"
+        },
+        {
+          "domain": "buzzing.cc",
+          "backlinks": "9",
+          "authority_score": "28"
+        },
+        {
+          "domain": "startuplaunchday.com",
+          "backlinks": "9",
+          "authority_score": "2"
+        },
+        {
+          "domain": "aireader.pythonanywhere.com",
+          "backlinks": "6",
+          "authority_score": "2"
+        },
+        {
+          "domain": "gaidot.net",
+          "backlinks": "4",
+          "authority_score": "2"
+        },
+        {
+          "domain": "gokuscraper.com",
+          "backlinks": "4",
+          "authority_score": "6"
+        },
+        {
+          "domain": "claudepluginhub.com",
+          "backlinks": "3",
+          "authority_score": "23"
+        },
+        {
+          "domain": "github.com",
+          "backlinks": "3",
+          "authority_score": "100"
+        },
+        {
+          "domain": "netwrck.com",
+          "backlinks": "3",
+          "authority_score": "22"
+        },
+        {
+          "domain": "skillbrew.dev",
+          "backlinks": "3",
+          "authority_score": "0"
+        },
+        {
+          "domain": "blogsphere.top",
+          "backlinks": "2",
+          "authority_score": "6"
+        },
+        {
+          "domain": "dailymusings.top",
+          "backlinks": "2",
+          "authority_score": "5"
+        },
+        {
+          "domain": "inferencebrief.ai",
+          "backlinks": "2",
+          "authority_score": "2"
+        },
+        {
+          "domain": "lawyerinjeddah.com",
+          "backlinks": "2",
+          "authority_score": "2"
+        },
+        {
+          "domain": "nextjs-hn-feed.vercel.app",
+          "backlinks": "2",
+          "authority_score": "2"
+        },
+        {
+          "domain": "server489.com",
+          "backlinks": "2",
+          "authority_score": "2"
+        },
+        {
+          "domain": "solid-hackernews-edge.netlify.app",
+          "backlinks": "2",
+          "authority_score": "2"
+        },
+        {
+          "domain": "svelte-hackernews.pages.dev",
+          "backlinks": "2",
+          "authority_score": "2"
+        }
+      ],
+      "_semrush_backlinks_total": 124,
+      "_semrush_authority_score": 2,
+      "_semrush_follow_links": 88,
+      "_semrush_nofollow_links": 36,
+      "_semrush_referring_ips": 40,
+      "_semrush_organic_keywords": [],
+      "_semrush_backlink_competitors": [
+        {
+          "domain": "kody-w.github.io",
+          "similarity": "0.331242",
+          "common_refdomains": "5"
+        },
+        {
+          "domain": "underpricedai.com",
+          "similarity": "0.214005",
+          "common_refdomains": "5"
+        },
+        {
+          "domain": "spacemolt.com",
+          "similarity": "0.026388",
+          "common_refdomains": "5"
+        },
+        {
+          "domain": "june.kim",
+          "similarity": "0.022576",
+          "common_refdomains": "5"
+        },
+        {
+          "domain": "rilldata.com",
+          "similarity": "0.011409",
+          "common_refdomains": "5"
+        }
+      ],
+      "_traffic_sources": {}
+    },
+    "mos2es-xyz": {
+      "share_of_voice": 0,
+      "source_visibility": 0,
+      "referral_traffic": 7032,
+      "ai_visibility": null,
+      "ai_mentions": 0,
+      "ai_citations": 0,
+      "tracked_prompts": 1,
+      "top_cited_pages": [],
+      "linked_mentions": 50,
+      "unlinked_mentions": 26,
+      "referring_domains": 28,
+      "forum_contributions": 0,
+      "repurposed_assets": 0,
+      "_semrush_referring_domains": [
+        {
+          "domain": "sheepnav.com",
+          "backlinks": "11",
+          "authority_score": "2"
+        },
+        {
+          "domain": "stackscope.dev",
+          "backlinks": "7",
+          "authority_score": "3"
+        },
+        {
+          "domain": "domainrank.app",
+          "backlinks": "3",
+          "authority_score": "20"
+        },
+        {
+          "domain": "buzzshrink.website",
+          "backlinks": "2",
+          "authority_score": "6"
+        },
+        {
+          "domain": "directorylinkservice.com",
+          "backlinks": "2",
+          "authority_score": "2"
+        },
+        {
+          "domain": "lawyerinjeddah.com",
+          "backlinks": "2",
+          "authority_score": "2"
+        },
+        {
+          "domain": "ready.pro",
+          "backlinks": "2",
+          "authority_score": "4"
+        },
+        {
+          "domain": "8coint.com",
+          "backlinks": "1",
+          "authority_score": "2"
+        },
+        {
+          "domain": "analyticshaven.top",
+          "backlinks": "1",
+          "authority_score": "6"
+        },
+        {
+          "domain": "atomizelink.icu",
+          "backlinks": "1",
+          "authority_score": "5"
+        },
+        {
+          "domain": "betulcrime.com",
+          "backlinks": "1",
+          "authority_score": "4"
+        },
+        {
+          "domain": "blogsphere.top",
+          "backlinks": "1",
+          "authority_score": "6"
+        },
+        {
+          "domain": "bye.fyi",
+          "backlinks": "1",
+          "authority_score": "21"
+        },
+        {
+          "domain": "byteshort.xyz",
+          "backlinks": "1",
+          "authority_score": "5"
+        },
+        {
+          "domain": "clifflisting.com",
+          "backlinks": "1",
+          "authority_score": "2"
+        },
+        {
+          "domain": "creativeposts.top",
+          "backlinks": "1",
+          "authority_score": "5"
+        },
+        {
+          "domain": "crunch.id",
+          "backlinks": "1",
+          "authority_score": "13"
+        },
+        {
+          "domain": "domaindexer.com",
+          "backlinks": "1",
+          "authority_score": "6"
+        },
+        {
+          "domain": "drjack.world",
+          "backlinks": "1",
+          "authority_score": "6"
+        },
+        {
+          "domain": "fiverr-cost-effective-seo.site",
+          "backlinks": "1",
+          "authority_score": "2"
+        }
+      ],
+      "_semrush_backlinks_total": 50,
+      "_semrush_authority_score": 2,
+      "_semrush_follow_links": 24,
+      "_semrush_nofollow_links": 26,
+      "_semrush_referring_ips": 19,
+      "_semrush_organic_keywords": [],
+      "_semrush_backlink_competitors": [],
+      "_traffic_sources": {
+        "vercel": {
+          "requests_30d": 7032,
+          "daily_avg": 234
+        }
+      }
+    },
+    "signalaf-com": {
+      "share_of_voice": 0,
+      "source_visibility": 6,
+      "referral_traffic": 751,
+      "ai_visibility": null,
+      "ai_mentions": 6,
+      "ai_citations": 4,
+      "tracked_prompts": 3,
+      "top_cited_pages": [
+        "https://signalaf.com/",
+        "https://signalaf.com/board/all",
+        "https://signalaf.com/science"
+      ],
+      "linked_mentions": 12045,
+      "unlinked_mentions": 112,
+      "referring_domains": 94,
+      "forum_contributions": 0,
+      "repurposed_assets": 4,
+      "_semrush_referring_domains": [
+        {
+          "domain": "sigeconomy.com",
+          "backlinks": "11788",
+          "authority_score": "2"
+        },
+        {
+          "domain": "unyly.org",
+          "backlinks": "17",
+          "authority_score": "2"
+        },
+        {
+          "domain": "claude-updates.com",
+          "backlinks": "16",
+          "authority_score": "6"
+        },
+        {
+          "domain": "github.com",
+          "backlinks": "11",
+          "authority_score": "100"
+        },
+        {
+          "domain": "mortaf3.com",
+          "backlinks": "8",
+          "authority_score": "2"
+        },
+        {
+          "domain": "mcpservers.org",
+          "backlinks": "7",
+          "authority_score": "42"
+        },
+        {
+          "domain": "skillget.dev",
+          "backlinks": "7",
+          "authority_score": "2"
+        },
+        {
+          "domain": "awesome-mcp.tools",
+          "backlinks": "6",
+          "authority_score": "2"
+        },
+        {
+          "domain": "lightnow.ai",
+          "backlinks": "6",
+          "authority_score": "2"
+        },
+        {
+          "domain": "portailorange.net",
+          "backlinks": "6",
+          "authority_score": "2"
+        },
+        {
+          "domain": "qwenterprise.com",
+          "backlinks": "6",
+          "authority_score": "2"
+        },
+        {
+          "domain": "ready.pro",
+          "backlinks": "6",
+          "authority_score": "4"
+        },
+        {
+          "domain": "saashub.com",
+          "backlinks": "6",
+          "authority_score": "40"
+        },
+        {
+          "domain": "allmcps.com",
+          "backlinks": "5",
+          "authority_score": "2"
+        },
+        {
+          "domain": "mcp-marketplace.io",
+          "backlinks": "5",
+          "authority_score": "7"
+        },
+        {
+          "domain": "npm.io",
+          "backlinks": "5",
+          "authority_score": "35"
+        },
+        {
+          "domain": "agentage.io",
+          "backlinks": "4",
+          "authority_score": "5"
+        },
+        {
+          "domain": "cephalochromoscope.net",
+          "backlinks": "4",
+          "authority_score": "2"
+        },
+        {
+          "domain": "chathome.org",
+          "backlinks": "4",
+          "authority_score": "2"
+        },
+        {
+          "domain": "jake.eu",
+          "backlinks": "4",
+          "authority_score": "6"
+        }
+      ],
+      "_semrush_backlinks_total": 12045,
+      "_semrush_authority_score": 2,
+      "_semrush_follow_links": 11930,
+      "_semrush_nofollow_links": 112,
+      "_semrush_referring_ips": 89,
+      "_semrush_organic_keywords": [
+        {
+          "keyword": "what is tier 1 operator",
+          "position": "79",
+          "volume": "170",
+          "url": "https://signalaf.com/tools/operator-class-checker"
+        },
+        {
+          "keyword": "difference between trigger and cursor",
+          "position": "76",
+          "volume": "70",
+          "url": "https://signalaf.com/vs/cursor"
+        },
+        {
+          "keyword": "what is a tier 1 operator",
+          "position": "89",
+          "volume": "320",
+          "url": "https://signalaf.com/tools/operator-class-checker"
+        },
+        {
+          "keyword": "cache hit rate",
+          "position": "77",
+          "volume": "170",
+          "url": "https://signalaf.com/metrics/cache-hit-rate"
+        },
+        {
+          "keyword": "cc usage",
+          "position": "77",
+          "volume": "50",
+          "url": "https://signalaf.com/alternatives/ccusage-alternatives"
+        },
+        {
+          "keyword": "cache hit",
+          "position": "80",
+          "volume": "110",
+          "url": "https://signalaf.com/metrics/cache-hit-rate"
+        }
+      ],
+      "_semrush_backlink_competitors": [
+        {
+          "domain": "clutter.run",
+          "similarity": "0.518075",
+          "common_refdomains": "5"
+        },
+        {
+          "domain": "keryx.cc",
+          "similarity": "0.511024",
+          "common_refdomains": "5"
+        },
+        {
+          "domain": "areacode.fyi",
+          "similarity": "0.494898",
+          "common_refdomains": "5"
+        },
+        {
+          "domain": "codeinspectus.com",
+          "similarity": "0.494898",
+          "common_refdomains": "5"
+        },
+        {
+          "domain": "mylinedchart.com",
+          "similarity": "0.475207",
+          "common_refdomains": "5"
+        },
+        {
+          "domain": "scribefy.app",
+          "similarity": "0.454545",
+          "common_refdomains": "5"
+        }
+      ],
+      "_traffic_sources": {
+        "vercel": {
+          "requests_30d": 969283,
+          "daily_avg": 32309
+        },
+        "posthog": {
+          "visitors_30d": 115,
+          "pageviews_30d": 751,
+          "sessions_30d": 164,
+          "avg_session_duration_s": 491,
+          "bounce_rate_pct": 31.1,
+          "top_pages": [
+            {
+              "path": "/board/all",
+              "visitors": 58,
+              "views": 164
+            },
+            {
+              "path": "/",
+              "visitors": 56,
+              "views": 79
+            },
+            {
+              "path": "/compare",
+              "visitors": 19,
+              "views": 54
+            },
+            {
+              "path": "/blog/volume-isnt-yield",
+              "visitors": 17,
+              "views": 20
+            },
+            {
+              "path": "/fieldhub",
+              "visitors": 13,
+              "views": 48
+            },
+            {
+              "path": "/hall",
+              "visitors": 12,
+              "views": 48
+            },
+            {
+              "path": "/field",
+              "visitors": 12,
+              "views": 44
+            },
+            {
+              "path": "/wiki",
+              "visitors": 12,
+              "views": 15
+            },
+            {
+              "path": "/blog",
+              "visitors": 10,
+              "views": 40
+            },
+            {
+              "path": "/settings",
+              "visitors": 10,
+              "views": 14
+            },
+            {
+              "path": "/me",
+              "visitors": 7,
+              "views": 19
+            },
+            {
+              "path": "/research",
+              "visitors": 7,
+              "views": 17
+            },
+            {
+              "path": "/board/90d",
+              "visitors": 6,
+              "views": 13
+            },
+            {
+              "path": "/login",
+              "visitors": 6,
+              "views": 9
+            },
+            {
+              "path": "/blog/the-human-in-the-loop-is-unmeasured",
+              "visitors": 5,
+              "views": 38
+            }
+          ],
+          "referring_domains": [
+            {
+              "domain": "$direct",
+              "visitors": 70,
+              "views": 517
+            },
+            {
+              "domain": "github.com",
+              "visitors": 33,
+              "views": 164
+            },
+            {
+              "domain": "www.google.com",
+              "visitors": 5,
+              "views": 35
+            },
+            {
+              "domain": "www.linkedin.com",
+              "visitors": 4,
+              "views": 5
+            },
+            {
+              "domain": "signalaf.com",
+              "visitors": 2,
+              "views": 21
+            },
+            {
+              "domain": "gemini.google.com",
+              "visitors": 1,
+              "views": 3
+            },
+            {
+              "domain": "com.google.android.googlequicksearchbox",
+              "visitors": 1,
+              "views": 2
+            },
+            {
+              "domain": "www.youtube.com",
+              "visitors": 1,
+              "views": 2
+            },
+            {
+              "domain": "bing.com",
+              "visitors": 1,
+              "views": 1
+            },
+            {
+              "domain": "www.bing.com",
+              "visitors": 1,
+              "views": 1
+            }
+          ]
+        }
+      }
+    },
+    "sigeconomy-com": {
+      "share_of_voice": 0,
+      "source_visibility": 0,
+      "referral_traffic": 45145,
+      "ai_visibility": null,
+      "ai_mentions": 2,
+      "ai_citations": 1,
+      "tracked_prompts": 1,
+      "top_cited_pages": [
+        "https://sigeconomy.com/"
+      ],
+      "linked_mentions": 400,
+      "unlinked_mentions": 30,
+      "referring_domains": 38,
+      "forum_contributions": 0,
+      "repurposed_assets": 1,
+      "_semrush_referring_domains": [],
+      "_semrush_backlinks_total": 400,
+      "_semrush_authority_score": 2,
+      "_semrush_follow_links": 370,
+      "_semrush_nofollow_links": 30,
+      "_semrush_referring_ips": 30,
+      "_semrush_organic_keywords": [],
+      "_semrush_backlink_competitors": [],
+      "_traffic_sources": {}
+    },
+    "signomy-xyz": {
+      "share_of_voice": 0,
+      "source_visibility": 0,
+      "referral_traffic": 72588,
+      "ai_visibility": null,
+      "ai_mentions": 5,
+      "ai_citations": 3,
+      "tracked_prompts": 3,
+      "top_cited_pages": [
+        "https://signomy.xyz/",
+        "https://signomy.xyz/moses",
+        "https://signomy.xyz/governance"
+      ],
+      "linked_mentions": 305,
+      "unlinked_mentions": 98,
+      "referring_domains": 93,
+      "forum_contributions": 2,
+      "repurposed_assets": 2,
+      "_semrush_referring_domains": [],
+      "_semrush_backlinks_total": 305,
+      "_semrush_authority_score": 2,
+      "_semrush_follow_links": 207,
+      "_semrush_nofollow_links": 98,
+      "_semrush_referring_ips": 91,
+      "_semrush_organic_keywords": [],
+      "_semrush_backlink_competitors": [],
+      "_traffic_sources": {
+        "vercel": {
+          "requests_30d": 72588,
+          "daily_avg": 2419
+        }
+      }
+    }
+  },
+  "_referring_domains_detail": {
+    "mos2es-com": [
+      "github.com",
+      "zenodo.org",
+      "clawrxiv.io",
+      "linkedin.com",
+      "mos2es.io",
+      "signomy.xyz",
+      "signalaf.com",
+      "sigeconomy.com"
+    ],
+    "mos2es-io": [
+      "github.com",
+      "mos2es.com",
+      "clawhub.ai"
+    ],
+    "signalaf-com": [
+      "github.com",
+      "glama.ai",
+      "npm.io",
+      "pypi.org",
+      "saashub.com",
+      "huggingface.co",
+      "sigeconomy.com"
+    ],
+    "sigeconomy-com": [
+      "github.com",
+      "signalaf.com",
+      "vuink.com"
+    ],
+    "signomy-xyz": [
+      "github.com",
+      "glama.ai",
+      "moltbook.com",
+      "news.ycombinator.com",
+      "getdrio.com",
+      "mos2es.com"
+    ]
+  },
+  "_forum_contributions_detail": {
+    "mos2es-com": [
+      "news.ycombinator.com (Show HN post)"
+    ],
+    "signomy-xyz": [
+      "moltbook.com (2 field reports)",
+      "news.ycombinator.com (Show HN discussion)"
+    ]
+  },
+  "_repurposed_assets_detail": {
+    "mos2es-com": [
+      "Zenodo DOI preprint",
+      "clawrxiv.io paper",
+      "LinkedIn profile"
+    ],
+    "mos2es-io": [
+      "clawhub.ai governance harness listing"
+    ],
+    "signalaf-com": [
+      "npm package (sigrank)",
+      "pypi package (sigrank-agent)",
+      "Hugging Face blog",
+      "VS Code extension"
+    ],
+    "sigeconomy-com": [
+      "GitHub sigarena satellite repo"
+    ],
+    "signomy-xyz": [
+      "Glama.ai MCP listing",
+      "getdrio.com MCP listing"
+    ]
+  },
+  "_semrush_fetched_at": "2026-08-27T10:29:43.074410+00:00",
+  "_traffic_fetched_at": "2026-09-02T14:45:15.338740+00:00"
+}

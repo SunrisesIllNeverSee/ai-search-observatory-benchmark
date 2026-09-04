@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "timeout_seconds": 12,
+  "user_agent": "Ello-AI-Search-Observatory/0.2 (+local benchmark)",
+  "ai_crawlers": [
+    "Googlebot",
+    "OAI-SearchBot",
+    "GPTBot",
+    "PerplexityBot",
+    "ClaudeBot",
+    "Claude-SearchBot"
+  ],
+  "weights": {
+    "visibility": 0.3,
+    "technical": 0.2,
+    "content": 0.2,
+    "authority": 0.2,
+    "offsite": 0.1
+  },
+  "targets": {
+    "share_of_voice_delta_pp": 15,
+    "source_visibility_delta_pp": 15,
+    "referral_traffic_growth_pct": 50,
+    "ai_visibility_delta_points": 3
+  },
+  "observation": {
+    "recommended_cadence": "weekly",
+    "retain_runs": true,
+    "compare_previous": true
+  },
+  "max_crawl_pages": 5,
+  "regression_thresholds": {
+    "combined_score_max_drop": 5.0,
+    "coverage_min": 60.0,
+    "confidence_min": 50.0,
+    "family_max_drop": 10.0
+  }
+}

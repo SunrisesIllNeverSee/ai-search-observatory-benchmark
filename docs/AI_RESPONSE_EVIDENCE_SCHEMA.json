@@ -1,0 +1,25 @@
+{
+  "example_observation": {
+    "site_id": "mos2es-com",
+    "platform": "ChatGPT",
+    "prompt": "What is MO\u00a7ES?",
+    "observed_at": "2026-08-26T00:00:00Z",
+    "response_excerpt": "...",
+    "cited_urls": [],
+    "canonical_claim_ids": [
+      "MO-DEF-002"
+    ],
+    "classification": "match",
+    "source_attribution_correct": true,
+    "notes": ""
+  },
+  "allowed_classifications": [
+    "match",
+    "accurate",
+    "partial",
+    "unsupported",
+    "contradiction",
+    "stale",
+    "unknown"
+  ]
+}

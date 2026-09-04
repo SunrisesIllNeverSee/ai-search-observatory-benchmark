@@ -1,0 +1,53 @@
+{
+  "sites": [
+    {
+      "id": "mos2es-com",
+      "domain": "mos2es.com",
+      "scheme": "https",
+      "framework_profile": "full-moses",
+      "local_repo_id": "mos2es-site"
+    },
+    {
+      "id": "mos2es-org",
+      "domain": "mos2es.org",
+      "scheme": "https",
+      "framework_profile": null,
+      "local_repo_id": null
+    },
+    {
+      "id": "mos2es-io",
+      "domain": "mos2es.io",
+      "scheme": "https",
+      "framework_profile": null,
+      "local_repo_id": null
+    },
+    {
+      "id": "mos2es-xyz",
+      "domain": "mos2es.xyz",
+      "scheme": "https",
+      "framework_profile": null,
+      "local_repo_id": "application-hub"
+    },
+    {
+      "id": "signalaf-com",
+      "domain": "signalaf.com",
+      "scheme": "https",
+      "framework_profile": null,
+      "local_repo_id": "sigrank-app"
+    },
+    {
+      "id": "sigeconomy-com",
+      "domain": "sigeconomy.com",
+      "scheme": "https",
+      "framework_profile": null,
+      "local_repo_id": null
+    },
+    {
+      "id": "signomy-xyz",
+      "domain": "signomy.xyz",
+      "scheme": "https",
+      "framework_profile": null,
+      "local_repo_id": "Mos2es_Signomy"
+    }
+  ]
+}

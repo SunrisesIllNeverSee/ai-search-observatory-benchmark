@@ -1,0 +1,1529 @@
+{
+  "_instructions": "Search Authority or another evaluator can append normalized AI-response observations here. Observations below were gathered via web search on 2026-08-27 to establish a baseline.",
+  "_source": "SA adapter + manual baseline (merged 2026-09-04)",
+  "observations": [
+    {
+      "site_id": "mos2es-com",
+      "platform": "Google Search",
+      "prompt": "What is MO\u00a7ES?",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "MO\u00a7ES\u2122 (Modus Operandi \u00a7ignal Scaling Expansion System) is a constitutional architecture for AI governance. It introduces a conservation law for commitment \u2014 the identity-preserving content of a signal.",
+      "cited_urls": [
+        "https://mos2es.com/",
+        "https://github.com/SunrisesIllNeverSee/MOS2ES"
+      ],
+      "canonical_claim_ids": [
+        "MO-DEF-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "Google returns mos2es.com as first result with accurate description matching canonical claims."
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Google Search",
+      "prompt": "MO\u00a7ES patent Ello Cello",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "Patent Pending Serial No. 63/877,177. Trademark MO\u00a7ES\u2122 IC 042. Holder: Ello Cello LLC. 4 filings.",
+      "cited_urls": [
+        "https://mos2es.com/",
+        "https://github.com/SunrisesIllNeverSee/MOS2ES/blob/main/06_patent/README.md"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "Patent and trademark details accurately surfaced from both mos2es.com and GitHub."
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Google Search",
+      "prompt": "conservation law commitment signal governance",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "A Conservation Law for Commitment in Language Under Transformative Compression and Recursive Application. Zenodo DOI: 10.5281/zenodo.20029607. C(T(S)) \u2248 C(S).",
+      "cited_urls": [
+        "https://doi.org/10.5281/zenodo.20029607",
+        "https://mos2es.com/papers"
+      ],
+      "canonical_claim_ids": [
+        "MO-LAW-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "Zenodo preprint correctly attributed to Ello Cello LLC / Deric J. McHenry."
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Brave Search",
+      "prompt": "MO\u00a7ES constitutional governance AI",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "MO\u00a7ES\u2122 is the protocol layer for semantic meaning at point of execution. What TCP/IP did for data, MO\u00a7ES\u2122 does for the preservation of meaning.",
+      "cited_urls": [
+        "https://mos2es.com/"
+      ],
+      "canonical_claim_ids": [
+        "MO-DEF-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "Brave Search returns mos2es.com with canonical tagline intact."
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Google Search",
+      "prompt": "MO\u00a7ES Six Fold Flame constitution",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "Six non-negotiable laws: Sovereignty, Compression, Purpose, Modularity, Verifiability, Reciprocal Resonance. Co-authored by nine rival AI architectures on September 9, 2025.",
+      "cited_urls": [
+        "https://github.com/SunrisesIllNeverSee/MOS2ES",
+        "https://signomy.xyz/moses"
+      ],
+      "canonical_claim_ids": [
+        "MO-CONSTITUTION-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "Constitutional details accurately surfaced from GitHub and signomy.xyz."
+    },
+    {
+      "site_id": "signomy-xyz",
+      "platform": "Google Search",
+      "prompt": "SIGNOMY AI agent marketplace governed",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "SIGNOMY is a governed AI agent city-state where 26 active missions are available. Agents register free, fill mission slots, and earn revenue under constitutional protocol.",
+      "cited_urls": [
+        "https://signomy.xyz/",
+        "https://github.com/SunrisesIllNeverSee/agent-universe"
+      ],
+      "canonical_claim_ids": [
+        "SG-DEF-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "signomy.xyz correctly identified as governed agent marketplace."
+    },
+    {
+      "site_id": "signomy-xyz",
+      "platform": "Hacker News",
+      "prompt": "SIGNOMY economy AI agents missions",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "SIGNOMY is a governed agent marketplace with its own law: C(T(S)) = C(S). 26 active missions. Sales commissions 5%. 4 trust tiers.",
+      "cited_urls": [
+        "https://signomy.xyz",
+        "https://github.com/SunrisesIllNeverSee/agent-universe"
+      ],
+      "canonical_claim_ids": [
+        "SG-DEF-001",
+        "SG-ECON-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "Show HN post accurately describes the platform economics and governance law."
+    },
+    {
+      "site_id": "signomy-xyz",
+      "platform": "moltbook.com",
+      "prompt": "Signomy field report",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "MO\u00a7ES governance runs in real time. Posture controls \u2014 SCOUT, DEFENSE, OFFENSE. The Six Fold Flame is the constitutional law. It runs in the execution path.",
+      "cited_urls": [
+        "https://signomy.xyz"
+      ],
+      "canonical_claim_ids": [
+        "SG-GOV-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "Third-party field report confirms governance execution claims."
+    },
+    {
+      "site_id": "signalaf-com",
+      "platform": "Google Search",
+      "prompt": "SigRank AI operator leaderboard",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "SigRank SignalAF \u2014 AI operator evaluation leaderboard. Ranks how efficiently you use AI by token cascade efficiency (\u03a5 = cache_read \u00d7 output / input\u00b2). Privacy-preserving: token counts only, never prompts.",
+      "cited_urls": [
+        "https://signalaf.com/",
+        "https://github.com/SunrisesIllNeverSee/sigrank-app"
+      ],
+      "canonical_claim_ids": [
+        "SR-DEF-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "signalaf.com correctly identified as the leaderboard. Yield formula accurately reported."
+    },
+    {
+      "site_id": "signalaf-com",
+      "platform": "SaaSHub",
+      "prompt": "SignalAF reviews",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "SigRank does not merely measure whether someone is good at AI. It reconstructs the operating form through which fresh effort becomes output, retained context, and future leverage. Measuring 1,628 AI operators.",
+      "cited_urls": [
+        "https://www.saashub.com/signalaf"
+      ],
+      "canonical_claim_ids": [
+        "SR-DEF-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SaaSHub listing partially describes SigRank. Does not mention MO\u00a7ES connection or conservation law."
+    },
+    {
+      "site_id": "signalaf-com",
+      "platform": "Hugging Face",
+      "prompt": "SigRank token economy diagnostic",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "My First MO\u00a7ES\u2122 SigRank \u2014 the diagnostic x-ray of the token economy. The leaderboard that judges AI coding operators by architecture, not budget.",
+      "cited_urls": [
+        "https://huggingface.co/blog/build-small-hackathon/sigrank"
+      ],
+      "canonical_claim_ids": [
+        "SR-DEF-001",
+        "SR-MOSES-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "Hugging Face blog post correctly attributes SigRank to MO\u00a7ES\u2122 stack."
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Google Search",
+      "prompt": "sigeconomy.com signal economy leaderboard",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "AI User Leaderboard \u2014 SigRank's satellite site. Read-only leaderboard that routes to signalaf.com for measurement and submission.",
+      "cited_urls": [
+        "https://github.com/SunrisesIllNeverSee/sigarena"
+      ],
+      "canonical_claim_ids": [
+        "SE-DEF-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "sigeconomy.com correctly described as satellite/SEO surface for signalaf.com."
+    },
+    {
+      "site_id": "mos2es-io",
+      "platform": "Google Search",
+      "prompt": "mos2es.io COMMAND multi-AI governance console",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "COMMAND \u00b7 powered by MO\u00a7ES\u2122. Multi-AI governance console. Assign roles, enforce sequence, inject context, and audit every interaction across multiple AI systems.",
+      "cited_urls": [
+        "https://www.mos2es.io/"
+      ],
+      "canonical_claim_ids": [
+        "CMD-DEF-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "mos2es.io correctly identified as COMMAND governance console."
+    },
+    {
+      "site_id": "mos2es-io",
+      "platform": "GitHub",
+      "prompt": "moses-claw-gov governance harness",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "MO\u00a7ES\u2122 Constitutional Claw: Governance Harness. Patent pending 63/877,177. Live demo: https://mos2es.io.",
+      "cited_urls": [
+        "https://github.com/SunrisesIllNeverSee/moses-claw-gov"
+      ],
+      "canonical_claim_ids": [
+        "CMD-DEF-001",
+        "MO-PATENT-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "GitHub repo correctly links mos2es.io as live demo for governance harness."
+    },
+    {
+      "site_id": "mos2es-org",
+      "platform": "Google Search",
+      "prompt": "mos2es.org",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "No specific results for mos2es.org as a distinct entity. Results redirect to mos2es.com content and MO\u00a7ES\u2122 general information.",
+      "cited_urls": [],
+      "canonical_claim_ids": [],
+      "classification": "unknown",
+      "source_attribution_correct": null,
+      "notes": "mos2es.org does not appear to have distinct external identity separate from mos2es.com."
+    },
+    {
+      "site_id": "mos2es-xyz",
+      "platform": "Google Search",
+      "prompt": "mos2es.xyz",
+      "observed_at": "2026-08-27T00:00:00Z",
+      "response_excerpt": "No specific external results for mos2es.xyz as a distinct entity. Site appears to be part of the MO\u00a7ES\u2122 domain portfolio.",
+      "cited_urls": [],
+      "canonical_claim_ids": [],
+      "classification": "unknown",
+      "source_attribution_correct": null,
+      "notes": "mos2es.xyz does not have distinct external mentions separate from mos2es.com."
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-IDENTITY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-IDENTITY-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.com"
+      ],
+      "canonical_claim_ids": [
+        "MO-IDENTITY-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-IDENTITY-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-DISCOVERY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-DISCOVERY-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.com"
+      ],
+      "canonical_claim_ids": [
+        "MO-DISCOVERY-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-DISCOVERY-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-DEF-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-DEF-001 (status: disputed)",
+      "cited_urls": [
+        "https://mos2es.com"
+      ],
+      "canonical_claim_ids": [
+        "MO-DEF-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-DEF-001 is disputed"
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PROBLEM-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PROBLEM-001 (status: disputed)",
+      "cited_urls": [
+        "https://mos2es.com"
+      ],
+      "canonical_claim_ids": [
+        "MO-PROBLEM-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PROBLEM-001 is disputed"
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PATENT-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PATENT-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.com"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PATENT-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PATENT-002",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PATENT-002 (status: source_supported)",
+      "cited_urls": [
+        "https://mos2es.com"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-002"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PATENT-002 is source_supported"
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PATENT-003",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PATENT-003 (status: source_supported)",
+      "cited_urls": [
+        "https://mos2es.com"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-003"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PATENT-003 is source_supported"
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-TRADEMARK-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-TRADEMARK-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.com"
+      ],
+      "canonical_claim_ids": [
+        "MO-TRADEMARK-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-TRADEMARK-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-ASSOCIATION-DERIC",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-ASSOCIATION-DERIC (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.com"
+      ],
+      "canonical_claim_ids": [
+        "MO-ASSOCIATION-DERIC"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-ASSOCIATION-DERIC is owner_approved"
+    },
+    {
+      "site_id": "mos2es-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-ASSOCIATION-ELLO",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-ASSOCIATION-ELLO (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.com"
+      ],
+      "canonical_claim_ids": [
+        "MO-ASSOCIATION-ELLO"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-ASSOCIATION-ELLO is owner_approved"
+    },
+    {
+      "site_id": "mos2es-org",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-IDENTITY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-IDENTITY-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.org"
+      ],
+      "canonical_claim_ids": [
+        "MO-IDENTITY-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-IDENTITY-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-org",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-DISCOVERY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-DISCOVERY-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.org"
+      ],
+      "canonical_claim_ids": [
+        "MO-DISCOVERY-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-DISCOVERY-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-org",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-DEF-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-DEF-001 (status: disputed)",
+      "cited_urls": [
+        "https://mos2es.org"
+      ],
+      "canonical_claim_ids": [
+        "MO-DEF-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-DEF-001 is disputed"
+    },
+    {
+      "site_id": "mos2es-org",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PROBLEM-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PROBLEM-001 (status: disputed)",
+      "cited_urls": [
+        "https://mos2es.org"
+      ],
+      "canonical_claim_ids": [
+        "MO-PROBLEM-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PROBLEM-001 is disputed"
+    },
+    {
+      "site_id": "mos2es-org",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PATENT-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PATENT-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.org"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PATENT-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-org",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PATENT-002",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PATENT-002 (status: source_supported)",
+      "cited_urls": [
+        "https://mos2es.org"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-002"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PATENT-002 is source_supported"
+    },
+    {
+      "site_id": "mos2es-org",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PATENT-003",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PATENT-003 (status: source_supported)",
+      "cited_urls": [
+        "https://mos2es.org"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-003"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PATENT-003 is source_supported"
+    },
+    {
+      "site_id": "mos2es-org",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-TRADEMARK-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-TRADEMARK-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.org"
+      ],
+      "canonical_claim_ids": [
+        "MO-TRADEMARK-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-TRADEMARK-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-org",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-ASSOCIATION-DERIC",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-ASSOCIATION-DERIC (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.org"
+      ],
+      "canonical_claim_ids": [
+        "MO-ASSOCIATION-DERIC"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-ASSOCIATION-DERIC is owner_approved"
+    },
+    {
+      "site_id": "mos2es-org",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-ASSOCIATION-ELLO",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-ASSOCIATION-ELLO (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.org"
+      ],
+      "canonical_claim_ids": [
+        "MO-ASSOCIATION-ELLO"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-ASSOCIATION-ELLO is owner_approved"
+    },
+    {
+      "site_id": "mos2es-io",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-IDENTITY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-IDENTITY-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.io"
+      ],
+      "canonical_claim_ids": [
+        "MO-IDENTITY-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-IDENTITY-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-io",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-DISCOVERY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-DISCOVERY-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.io"
+      ],
+      "canonical_claim_ids": [
+        "MO-DISCOVERY-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-DISCOVERY-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-io",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-DEF-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-DEF-001 (status: disputed)",
+      "cited_urls": [
+        "https://mos2es.io"
+      ],
+      "canonical_claim_ids": [
+        "MO-DEF-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-DEF-001 is disputed"
+    },
+    {
+      "site_id": "mos2es-io",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PROBLEM-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PROBLEM-001 (status: disputed)",
+      "cited_urls": [
+        "https://mos2es.io"
+      ],
+      "canonical_claim_ids": [
+        "MO-PROBLEM-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PROBLEM-001 is disputed"
+    },
+    {
+      "site_id": "mos2es-io",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PATENT-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PATENT-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.io"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PATENT-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-io",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PATENT-002",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PATENT-002 (status: source_supported)",
+      "cited_urls": [
+        "https://mos2es.io"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-002"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PATENT-002 is source_supported"
+    },
+    {
+      "site_id": "mos2es-io",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PATENT-003",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PATENT-003 (status: source_supported)",
+      "cited_urls": [
+        "https://mos2es.io"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-003"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PATENT-003 is source_supported"
+    },
+    {
+      "site_id": "mos2es-io",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-TRADEMARK-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-TRADEMARK-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.io"
+      ],
+      "canonical_claim_ids": [
+        "MO-TRADEMARK-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-TRADEMARK-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-io",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-ASSOCIATION-DERIC",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-ASSOCIATION-DERIC (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.io"
+      ],
+      "canonical_claim_ids": [
+        "MO-ASSOCIATION-DERIC"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-ASSOCIATION-DERIC is owner_approved"
+    },
+    {
+      "site_id": "mos2es-io",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-ASSOCIATION-ELLO",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-ASSOCIATION-ELLO (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.io"
+      ],
+      "canonical_claim_ids": [
+        "MO-ASSOCIATION-ELLO"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-ASSOCIATION-ELLO is owner_approved"
+    },
+    {
+      "site_id": "mos2es-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-IDENTITY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-IDENTITY-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.xyz"
+      ],
+      "canonical_claim_ids": [
+        "MO-IDENTITY-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-IDENTITY-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-DISCOVERY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-DISCOVERY-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.xyz"
+      ],
+      "canonical_claim_ids": [
+        "MO-DISCOVERY-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-DISCOVERY-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-DEF-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-DEF-001 (status: disputed)",
+      "cited_urls": [
+        "https://mos2es.xyz"
+      ],
+      "canonical_claim_ids": [
+        "MO-DEF-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-DEF-001 is disputed"
+    },
+    {
+      "site_id": "mos2es-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PROBLEM-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PROBLEM-001 (status: disputed)",
+      "cited_urls": [
+        "https://mos2es.xyz"
+      ],
+      "canonical_claim_ids": [
+        "MO-PROBLEM-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PROBLEM-001 is disputed"
+    },
+    {
+      "site_id": "mos2es-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PATENT-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PATENT-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.xyz"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PATENT-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PATENT-002",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PATENT-002 (status: source_supported)",
+      "cited_urls": [
+        "https://mos2es.xyz"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-002"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PATENT-002 is source_supported"
+    },
+    {
+      "site_id": "mos2es-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-PATENT-003",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-PATENT-003 (status: source_supported)",
+      "cited_urls": [
+        "https://mos2es.xyz"
+      ],
+      "canonical_claim_ids": [
+        "MO-PATENT-003"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-PATENT-003 is source_supported"
+    },
+    {
+      "site_id": "mos2es-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-TRADEMARK-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-TRADEMARK-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.xyz"
+      ],
+      "canonical_claim_ids": [
+        "MO-TRADEMARK-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-TRADEMARK-001 is owner_approved"
+    },
+    {
+      "site_id": "mos2es-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-ASSOCIATION-DERIC",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-ASSOCIATION-DERIC (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.xyz"
+      ],
+      "canonical_claim_ids": [
+        "MO-ASSOCIATION-DERIC"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-ASSOCIATION-DERIC is owner_approved"
+    },
+    {
+      "site_id": "mos2es-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:moses:MO-ASSOCIATION-ELLO",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim MO-ASSOCIATION-ELLO (status: owner_approved)",
+      "cited_urls": [
+        "https://mos2es.xyz"
+      ],
+      "canonical_claim_ids": [
+        "MO-ASSOCIATION-ELLO"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for moses \u2014 claim MO-ASSOCIATION-ELLO is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-IDENTITY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-IDENTITY-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-IDENTITY-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-IDENTITY-001 is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-IDENTITY-002",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-IDENTITY-002 (status: owner_approved)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-IDENTITY-002"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-IDENTITY-002 is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-DEF-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-DEF-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-DEF-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-DEF-001 is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-CONTRAST-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-CONTRAST-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-CONTRAST-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-CONTRAST-001 is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-PROBLEM-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-PROBLEM-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-PROBLEM-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-PROBLEM-001 is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-DISCOVERY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-DISCOVERY-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-DISCOVERY-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-DISCOVERY-001 is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-DISCOVERY-002",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-DISCOVERY-002 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-DISCOVERY-002"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-DISCOVERY-002 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-OPERATOR-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-OPERATOR-001 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-OPERATOR-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-OPERATOR-001 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-BOUNDARY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-BOUNDARY-001 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-BOUNDARY-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-BOUNDARY-001 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-BOUNDARY-002",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-BOUNDARY-002 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-BOUNDARY-002"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-BOUNDARY-002 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-BOUNDARY-003",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-BOUNDARY-003 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-BOUNDARY-003"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-BOUNDARY-003 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-PRIVACY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-PRIVACY-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-PRIVACY-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-PRIVACY-001 is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-PRIVACY-002",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-PRIVACY-002 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-PRIVACY-002"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-PRIVACY-002 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-METHODOLOGY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-METHODOLOGY-001 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-METHODOLOGY-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-METHODOLOGY-001 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-CASCADE-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-CASCADE-001 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-CASCADE-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-CASCADE-001 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-CASCADE-002",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-CASCADE-002 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-CASCADE-002"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-CASCADE-002 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-INGEST-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-INGEST-001 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-INGEST-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-INGEST-001 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-INGEST-002",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-INGEST-002 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-INGEST-002"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-INGEST-002 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-FIELD-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-FIELD-001 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-FIELD-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-FIELD-001 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-FIELD-002",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-FIELD-002 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-FIELD-002"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-FIELD-002 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-FIELD-003",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-FIELD-003 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-FIELD-003"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-FIELD-003 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-PROVENANCE-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-PROVENANCE-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-PROVENANCE-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-PROVENANCE-001 is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-REL-CL-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-REL-CL-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-REL-CL-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-REL-CL-001 is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-TAXONOMY-DISTINCTION-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-TAXONOMY-DISTINCTION-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-TAXONOMY-DISTINCTION-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-TAXONOMY-DISTINCTION-001 is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-CLASS-CONFLICT-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-CLASS-CONFLICT-001 (status: disputed)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-CLASS-CONFLICT-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-CLASS-CONFLICT-001 is disputed"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-SURFACE-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-SURFACE-001 (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-SURFACE-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-SURFACE-001 is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:SR-CLI-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SR-CLI-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "SR-CLI-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim SR-CLI-001 is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:field_methodology",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim field_methodology (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "field_methodology"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim field_methodology is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:field_methodology",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim field_methodology (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "field_methodology"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim field_methodology is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:verification",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim verification (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "verification"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim verification is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:ingest_architecture",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim ingest_architecture (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "ingest_architecture"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim ingest_architecture is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:privacy_model",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim privacy_model (status: owner_approved)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "privacy_model"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim privacy_model is owner_approved"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:population_statistics",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim population_statistics (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "population_statistics"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim population_statistics is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:exclusion_policy",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim exclusion_policy (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "exclusion_policy"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim exclusion_policy is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:verification",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim verification (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "verification"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim verification is source_supported"
+    },
+    {
+      "site_id": "sigeconomy-com",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:sigrank:verification",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim verification (status: source_supported)",
+      "cited_urls": [
+        "https://sigeconomy.com"
+      ],
+      "canonical_claim_ids": [
+        "verification"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for sigrank \u2014 claim verification is source_supported"
+    },
+    {
+      "site_id": "signomy-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:signomy:SIGNOMY-IDENTITY-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SIGNOMY-IDENTITY-001 (status: source_supported)",
+      "cited_urls": [
+        "https://signomy.xyz"
+      ],
+      "canonical_claim_ids": [
+        "SIGNOMY-IDENTITY-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for signomy \u2014 claim SIGNOMY-IDENTITY-001 is source_supported"
+    },
+    {
+      "site_id": "signomy-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:signomy:SIGNOMY-PROVENANCE-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim SIGNOMY-PROVENANCE-001 (status: draft)",
+      "cited_urls": [
+        "https://signomy.xyz"
+      ],
+      "canonical_claim_ids": [
+        "SIGNOMY-PROVENANCE-001"
+      ],
+      "classification": "partial",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for signomy \u2014 claim SIGNOMY-PROVENANCE-001 is draft"
+    },
+    {
+      "site_id": "signomy-xyz",
+      "platform": "Search Authority Canon",
+      "prompt": "canon:signomy:ENTITY-SIGNOMY-CIVITAE-DISTINCT-001",
+      "observed_at": "2026-09-04T11:37:58Z",
+      "response_excerpt": "Canon claim ENTITY-SIGNOMY-CIVITAE-DISTINCT-001 (status: owner_approved)",
+      "cited_urls": [
+        "https://signomy.xyz"
+      ],
+      "canonical_claim_ids": [
+        "ENTITY-SIGNOMY-CIVITAE-DISTINCT-001"
+      ],
+      "classification": "match",
+      "source_attribution_correct": true,
+      "notes": "SA canon verification for signomy \u2014 claim ENTITY-SIGNOMY-CIVITAE-DISTINCT-001 is owner_approved"
+    }
+  ],
+  "_sa_adapter_last_run": "2026-09-04T11:37:58.893099+00:00"
+}

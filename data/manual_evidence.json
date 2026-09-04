@@ -1,0 +1,12 @@
+{
+  "_instructions": "Use only for playbook steps that cannot yet be measured automatically. Evidence should point to a file, URL, report, or observation.",
+  "sites": {
+    "mos2es-com": {},
+    "mos2es-org": {},
+    "mos2es-io": {},
+    "mos2es-xyz": {},
+    "signalaf-com": {},
+    "sigeconomy-com": {},
+    "signomy-xyz": {}
+  }
+}
