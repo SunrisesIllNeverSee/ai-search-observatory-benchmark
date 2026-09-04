@@ -1,0 +1,81 @@
+{
+  "_instructions": "Epistemic architecture test prompts for the AI Search Observatory. These test whether external AI systems correctly interpret the knowledge architecture.",
+  "_source": "Epistemic Architecture Build Plan Phase 13",
+  "_created": "2026-09-04",
+  "_classification_vocab": [
+    "correct",
+    "partially_correct",
+    "incorrect",
+    "unsupported",
+    "stale",
+    "entity_confusion",
+    "authority_confusion",
+    "citation_failure"
+  ],
+  "epistemic_test_prompts": [
+    {
+      "prompt": "What is the Conservation Law of Commitment?",
+      "canonical_claim_ids": ["CL-DEF-001", "CL-PROBLEM-001"],
+      "expected_classification": "correct",
+      "notes": "Should cite the Zenodo paper and mention falsifiability."
+    },
+    {
+      "prompt": "How are SignalAF and Upsilon related?",
+      "canonical_claim_ids": ["SR-DEF-001"],
+      "expected_classification": "correct",
+      "notes": "Should identify Upsilon as measurement engine, SignalAF as distribution surface."
+    },
+    {
+      "prompt": "What is TTEOP?",
+      "canonical_claim_ids": [],
+      "expected_classification": "correct",
+      "notes": "Should identify TTEOP as the token telemetry protocol, not SigRank."
+    },
+    {
+      "prompt": "Is the Conservation Law of Commitment peer-reviewed?",
+      "canonical_claim_ids": ["CL-DEF-001"],
+      "expected_classification": "partially_correct",
+      "notes": "Should say deposited on Zenodo but not peer-reviewed. Evidence level is empirical, confidence medium."
+    },
+    {
+      "prompt": "What evidence supports the Conservation Law of Commitment?",
+      "canonical_claim_ids": ["CL-PROBLEM-001"],
+      "expected_classification": "correct",
+      "notes": "Should mention EXP-001 through EXP-007, 3950 run entries, 0.94 vs 0.42 stability separation."
+    },
+    {
+      "prompt": "What would falsify the Conservation Law of Commitment?",
+      "canonical_claim_ids": ["CL-PROBLEM-001"],
+      "expected_classification": "correct",
+      "notes": "Should mention F_10(S) < tau under enforced regime, or ungoverned transformation preserving commitment."
+    },
+    {
+      "prompt": "What is the difference between MO§ES and SigRank?",
+      "canonical_claim_ids": ["MO-DEF-001", "SR-DEF-001"],
+      "expected_classification": "correct",
+      "notes": "Should identify MO§ES as governance architecture, SigRank as measurement/leaderboard."
+    },
+    {
+      "prompt": "Is the Conservation Law of Commitment the same as McHenry's Law?",
+      "canonical_claim_ids": ["CL-DEF-001"],
+      "expected_classification": "correct",
+      "notes": "Should say NO — personal name attribution is prohibited by the owner."
+    },
+    {
+      "prompt": "What is the MO§ES Ecosystem Standard?",
+      "canonical_claim_ids": [],
+      "expected_classification": "correct",
+      "notes": "Should identify it as the public canonical architecture, governed projection of Search Authority."
+    },
+    {
+      "prompt": "Does MO§ES evaluate AI models?",
+      "canonical_claim_ids": ["SR-CONTRAST-001"],
+      "expected_classification": "correct",
+      "notes": "Should say NO — SigRank evaluates AI operators, not models."
+    }
+  ],
+  "_authority_loop": {
+    "description": "The observatory closes the loop: Search Authority → Standards/Handbook → Public sites → AI/Search systems → Observatory → drift findings",
+    "rule": "Observatory findings never become canon automatically."
+  }
+}
